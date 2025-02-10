@@ -17,10 +17,14 @@ python3 webui.py
 ```
 
 ## Dependencies
-Make sure you have the following dependencies installed:
+Ensure you have the following dependencies installed:
 - `gradio`
 - `openai`
 - `pymilvus`
 - `requests`
 - `tqdm`
 - `typing_extensions`
+
+## References
+- **Dustin Franklin** (For local models)
+- **nsrinidhibhat** (UI)
